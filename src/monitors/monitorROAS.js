@@ -1,5 +1,5 @@
 import Monitor from "./monitor";
-//import from "md5";
+import from "md5";
 import { getRelevant, diff } from "../utils/rpkiDiffingTool";
 import {AS} from "../model";
 import moment from "moment";
